@@ -114,8 +114,7 @@ function ProfileForm() {
 
             <button 
               className="btn btn-primary btn-block mt-4" 
-              onClick={handleSubmit}
-            >
+              onClick={handleSubmit}>
               Save Changes
             </button>
           </form>

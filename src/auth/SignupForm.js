@@ -103,8 +103,7 @@ function SignupForm({ signup }) {
               <button 
                 className="btn btn-primary float-right" 
                 type="submit" 
-                onSubmit={handleSubmit}
-              >
+                onSubmit={handleSubmit}>
                 Submit
               </button>
              </form>
